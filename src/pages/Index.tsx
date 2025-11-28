@@ -58,11 +58,11 @@ const Index = () => {
         {/* Header Section */}
         <div className="text-center mb-12 sm:mb-16">
           <div className="flex flex-col sm:flex-row justify-center items-center gap-3 mb-4 sm:mb-6">
-            <div className="bg-gradient-to-r from-blue-600 to-indigo-600 w-12 h-12 sm:w-16 sm:h-16 rounded-2xl flex items-center justify-center shadow-lg">
+            {/* <div className="bg-gradient-to-r from-blue-600 to-indigo-600 w-12 h-12 sm:w-16 sm:h-16 rounded-2xl flex items-center justify-center shadow-lg">
               <Building2 className="w-6 h-6 sm:w-8 sm:h-8 text-white" />
-            </div>
+            </div> */}
             <h1 className="text-3xl sm:text-5xl font-bold bg-gradient-to-r from-slate-800 to-slate-600 bg-clip-text text-transparent">
-              PMS Development
+              Webchat Agent Development For Fury Water Adventures.
             </h1>
           </div>
           
@@ -71,8 +71,8 @@ const Index = () => {
           </h2>
           
           <p className="text-base sm:text-xl text-slate-600 max-w-4xl mx-auto leading-relaxed mb-6 sm:mb-8 px-4">
-            Welcome to our comprehensive Property Management System Development Requirements platform.
-            Help us design the perfect PMS solution tailored to your specific needs and workflow requirements.
+            Welcome to our comprehensive Webchat Agent Development Requirements platform.
+            Help us design the perfect webchat agent solution tailored to your specific needs and workflow requirements.
           </p>
 
           {/* Info Cards */}
@@ -83,7 +83,7 @@ const Index = () => {
                   <Users className="w-5 h-5 sm:w-6 sm:h-6 text-blue-600" />
                 </div>
                 <h3 className="font-semibold text-slate-800 mb-2 text-sm sm:text-base">For</h3>
-                <p className="text-slate-600 text-sm sm:text-base">Chandresh Patel</p>
+                <p className="text-slate-600 text-sm sm:text-base">Fury Water Adventures</p>
               </CardContent>
             </Card>
             
@@ -103,7 +103,7 @@ const Index = () => {
                   <Key className="w-5 h-5 sm:w-6 sm:h-6 text-purple-600" />
                 </div>
                 <h3 className="font-semibold text-slate-800 mb-2 text-sm sm:text-base">Purpose</h3>
-                <p className="text-slate-600 text-sm sm:text-base">Custom PMS Design</p>
+                <p className="text-slate-600 text-sm sm:text-base">Custom Webchat Agent Development</p>
               </CardContent>
             </Card>
           </div>
