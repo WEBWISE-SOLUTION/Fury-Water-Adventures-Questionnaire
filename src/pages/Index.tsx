@@ -25,7 +25,7 @@ const Index = () => {
               Thank You for Your Submission!
             </h1>
             <p className="text-lg sm:text-xl text-slate-600 mb-6 sm:mb-8 leading-relaxed px-2">
-              We've successfully recorded your Property Management System requirements. 
+              We've successfully recorded your requirements. 
               Our expert development team will carefully review your specifications.
             </p>
             <div className="bg-gradient-to-r from-blue-50 to-indigo-50 border border-blue-200 rounded-xl p-4 sm:p-6 mb-6 sm:mb-8">
@@ -35,7 +35,7 @@ const Index = () => {
               </h3>
               <p className="text-xs sm:text-sm text-blue-800 leading-relaxed">
                 Our development team will analyze your requirements and prepare a comprehensive, 
-                customized proposal for your Property Management System within 2-3 business days. 
+                customized proposal within 2-3 business days. 
                 You'll receive a detailed technical specification and timeline.
               </p>
             </div>
